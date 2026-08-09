@@ -8,7 +8,7 @@
 <br>
 
 <h3>Sinopse</h3>
-<p>Explore os eventos que antecederam, acompanharam e sucederam a tragédia de <i>Corpse Party</i>. Através de linhas do tempo alternativas e visões inéditas nos corredores amaldiçoados da <i>Escola Primária Heavenly Host</i>, o jogo revela os destinos sombrios que poderiam ter sido evitados, o passado dos professores e alunos, as consequências enfrentadas pelos sobreviventes e a origem da terrível maldição ligada ao <i>Livro das Sombras</i>.</p>
+<p>Explore os eventos que antecederam, acompanharam e sucederam a tragédia de <i>Corpse Party</i>. Através de linhas do tempo alternativas e cenas inéditas nos corredores amaldiçoados da <i>Escola Primária Heavenly Host</i>, o jogo revela os destinos sombrios que poderiam ter sido evitados, o passado dos professores e alunos, as consequências enfrentadas pelos sobreviventes e a origem da terrível maldição ligada ao <i>Livro das Sombras</i>.</p>
 <br>
 
 <h3>Progresso da tradução</h3>
