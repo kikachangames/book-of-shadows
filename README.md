@@ -21,7 +21,7 @@ Capítulo 5: Shangri-La  [░░░░░░░░░░] 00%
 Capítulo 6: Lama        [░░░░░░░░░░] 00%  
 Capítulo 7: Dente       [░░░░░░░░░░] 00%
 Capítulo 8: Blood Drive [░░░░░░░░░░] 00%
-
+<br>
 Progresso Total:        [▓▓░░░░░░░░] 20%
 </pre>
 <br>
