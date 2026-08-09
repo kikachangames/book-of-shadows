@@ -37,10 +37,10 @@ Progresso Total:        [▓▓░░░░░░░░] 20%
 <img alt="08" src="https://github.com/user-attachments/assets/eb0cca08-043d-4747-aa39-a1a5d5ffd544" />
 <img alt="09" src="https://github.com/user-attachments/assets/dd73e963-90da-4f74-b47e-f32dee2e8f15" />
 <br>
+<br>
 
 <h3>Lançamento</h3>
 <p>A ser anunciado.</p>
-<br>
 
 
 <br>
