@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Terror-800020" alt="Terror"> <img src="https://img.shields.io/badge/Gore-8b0000" alt="Gore"> <img src="https://img.shields.io/badge/Mist%C3%A9rio-4a148c" alt="Mistério">
+<img src="https://img.shields.io/badge/Terror-800020" alt="Terror"> <img src="https://img.shields.io/badge/Gore-8b0000" alt="Gore"> <img src="https://img.shields.io/badge/Mist%C3%A9rio-4a148c" alt="Mistério"> 
 <img alt="bos" src="https://github.com/user-attachments/assets/c851d80f-42dd-4a4c-b54f-a602194b958d" />
 
 <h3><i>"Assim que o destino de alguém passa por esses corredores, ele fica selado aqui para sempre."</i></h3>
