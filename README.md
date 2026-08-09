@@ -2,7 +2,7 @@
 
 <img alt="bos" src="https://github.com/user-attachments/assets/c851d80f-42dd-4a4c-b54f-a602194b958d" />
 
-<h4>"Assim que o destino de alguém passa por esses corredores, ele fica selado aqui para sempre."</h4>
+<h3><i>Assim que o destino de alguém passa por esses corredores, ele fica selado aqui para sempre.</i></h3>
 <br>
 <p>Nesta página você poderá acompanhar o progresso da tradução da Visual Novel <a href="https://vndb.org/v7849" target="_blank">Corpse Party: Book of Shadows</a>, lançada pela MAGES & Team GrisGris em 2011.</p>
 <br>
