@@ -1,4 +1,5 @@
 <img src="https://img.shields.io/badge/Jogo%20de%20Sobreviv%C3%AAncia-d32f2f" alt="Jogo de Sobrevivência"> <img src="https://img.shields.io/badge/Horror-800020" alt="Horror"> <img src="https://img.shields.io/badge/Mist%C3%A9rio-4a148c" alt="Mistério">
+
 <img alt="bos" src="https://github.com/user-attachments/assets/c851d80f-42dd-4a4c-b54f-a602194b958d" />
 
 <h4>"Assim que o destino de alguém passa por esses corredores, ele fica selado aqui para sempre."</h4>
