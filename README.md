@@ -4,7 +4,7 @@
 
 <h3><i>"Assim que o destino de alguém passa por esses corredores, ele fica selado aqui para sempre."</i></h3>
 <br>
-<p>Nesta página você poderá acompanhar o progresso da tradução da visual novel <a href="https://vndb.org/v7849" target="_blank">Corpse Party: Book of Shadows</a> (versão Steam), lançada pela MAGES & Team GrisGris em 2011.</p>
+<p>Nesta página você poderá acompanhar o progresso da tradução da visual novel <a href="https://vndb.org/v7849" target="_blank">Corpse Party: Book of Shadows</a> (versão Steam), lançada pela MAGES. & Team GrisGris em 2011.</p>
 <br>
 
 <h3>Sinopse</h3>
@@ -72,7 +72,7 @@ Progresso Total:        [▓▓░░░░░░░░] 20%
 <h3>Agradecimentos</h3>
 
 <a href="https://josekenshin.blogspot.com/p/corpse-party-book-os-shadows-psp.html" target="_blank">JoseKenshin</a><br/>
-<a href="https://game.mages.co.jp/" target="blank">MAGES</a><br/>
+<a href="https://game.mages.co.jp/" target="blank">MAGES.</a><br/>
 <a href="https://github.com/RikuKH3/" target="blank">RikuKH3</a><br/>
 <a href="https://teapartyprojectrpg.tumblr.com/" target="_blank">Tea Party Project</a><br/>
 <a href="http://www.gris2.com/" target="_blank">Team GrisGris</a><br/>
