@@ -71,7 +71,7 @@ Progresso Total:        [▓▓░░░░░░░░] 20%
 
 <h3>Agradecimentos</h3>
 
-<a href="https://josekenshin.blogspot.com/p/corpse-party-book-os-shadows-psp.html" target="_blank">JoseKensin</a><br/>
+<a href="https://josekenshin.blogspot.com/p/corpse-party-book-os-shadows-psp.html" target="_blank">JoseKenshin</a><br/>
 <a href="https://game.mages.co.jp/" target="blank">MAGES</a><br/>
 <a href="https://github.com/RikuKH3/" target="blank">RikuKH3</a><br/>
 <a href="https://teapartyprojectrpg.tumblr.com/" target="_blank">Tea Party Project</a><br/>
