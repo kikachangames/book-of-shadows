@@ -14,7 +14,7 @@
 <h3>Progresso da tradução</h3>
 <pre>
 Capítulo 1: Selo        [▓▓▓▓▓▓▓▓▓▓] 100%
-Capítulo 2: Morte       [▓▓░░░░░░░░] 20%
+Capítulo 2: Morte       [▓▓▓▓▓░░░░░] 50%
 Capítulo 3: Encontro    [░░░░░░░░░░] 00%
 Capítulo 4: Purgatório  [░░░░░░░░░░] 00%
 Capítulo 5: Shangri-La  [░░░░░░░░░░] 00%
@@ -22,7 +22,7 @@ Capítulo 6: Lama        [░░░░░░░░░░] 00%
 Capítulo 7: Dente       [░░░░░░░░░░] 00%
 Capítulo 8: Blood Drive [░░░░░░░░░░] 00%
 <br>
-Progresso Total:        [▓▓░░░░░░░░] 20%
+Progresso Total:        [▓▓░░░░░░░░] 25%
 </pre>
 <br>
 
